@@ -1,3 +1,3 @@
 # simpleANN
  
-A developing API for creating simple artificial neural networks.
+A developing library for creating simple artificial neural networks.
